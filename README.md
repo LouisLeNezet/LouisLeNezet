@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**LouisLeNezet/LouisLeNezet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+Hi there! I'm a PhD genomic bioinformatician with a passion for open science and FAIR data. My research focuses on developing and applying computational methods for analyzing genomic data. I am particularly interested in using open-source tools and workflows to ensure reproducibility and facilitate data sharing.
 
-Here are some ideas to get you started:
+I am an active member of the nf-core community, where I contribute to the development of best practices for next-generation sequencing data analysis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+On my GitHub page, you'll find a variety of projects related to my research, including pipelines for processing and analyzing genomic data and some personnal project. I believe in the power of collaboration and welcome feedback and contributions from the community. Let's work together to advance genomic research and promote open science!
+
+
+## How to reach me ?
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/louis-le-n%C3%A9zet-618aba166/)
+
+## :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" **alt="R" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/nextflow-io/trademark/blob/master/nextflow-icon-128x128.png" title="Nexflow" **alt="Nexflow" width="40" height="40"/>&nbsp;
+</div>
+
+## :fire: Stats
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LouisLeNezet&theme=dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)
