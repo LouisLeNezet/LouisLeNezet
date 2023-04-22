@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## About me
-Hi there! I'm a PhD genomic bioinformatician with a passion for open science and FAIR data. My research focuses on developing and applying computational methods for analyzing genomic data. I am particularly interested in using open-source tools and workflows to ensure reproducibility and facilitate data sharing.
+I'm a PhD genomic bioinformatician with a passion for open science and FAIR data. My research focuses on developing and applying computational methods for analyzing genomic data. I am particularly interested in using open-source tools and workflows to ensure reproducibility and facilitate data sharing.
 
 I am an active member of the nf-core community, where I contribute to the development of best practices for next-generation sequencing data analysis.
 
