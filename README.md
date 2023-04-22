@@ -9,7 +9,7 @@ On my GitHub page, you'll find a variety of projects related to my research, inc
 
 
 ## How to reach me ?
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/louis-le-n%C3%A9zet-618aba166/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/louis-le-n%C3%A9zet-618aba166/)
 
 ## :hammer_and_wrench: Languages and Tools :
 <div>
@@ -22,4 +22,4 @@ On my GitHub page, you'll find a variety of projects related to my research, inc
 ## :fire: Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LouisLeNezet&theme=dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LouisLeNezet&show_icons=true&theme=dark&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=LouisLeNezet&show_icons=true&theme=dark&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
