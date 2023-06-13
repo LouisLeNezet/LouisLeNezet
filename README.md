@@ -22,4 +22,4 @@ On my GitHub page, you'll find a variety of projects related to my research, inc
 ## :fire: Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LouisLeNezet&theme=dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=LouisLeNezet&show_icons=true&theme=dark&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=LouisLeNezet&show_icons=true&theme=dark&count_private=true&show_icons=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
