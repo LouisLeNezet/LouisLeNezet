@@ -16,7 +16,7 @@ On my GitHub page, you'll find a variety of projects related to my research, inc
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" **alt="R" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/nextflow-io/trademark/blob/master/nextflow-icon-128x128.png" title="Nexflow" **alt="Nexflow" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/nextflow-io/trademark/blob/master/nextflow-icon.png" title="Nexflow" **alt="Nexflow" width="40" height="40"/>&nbsp;
 </div>
 
 ## :fire: Stats
