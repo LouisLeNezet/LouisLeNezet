@@ -10,7 +10,7 @@ I am an Nextflow ambassador and active member of the nf-core community, where I 
 
 On my GitHub, you'll find a variety of projects related to my research but also some personal projects:
 
-<img src="https://github.com/nf-core/phaseimpute/blob/master/docs/images/logo/nf-core-phaseimpute_hexagonal_logo.png" alt="nf-core/phaseimpute logo" url="https://nf-co.re/phaseimpute/" width="200"/> <img src="https://github.com/LouisLeNezet/Pedixplorer/blob/devel/inst/figures/icon_Pedixplorer.png" alt="Pedixplorer logo" url="[https://nf-co.re/phaseimpute/](https://louislenezet.github.io/Pedixplorer/)" width="200"/>
+<img src="https://github.com/nf-core/phaseimpute/blob/master/docs/images/logo/nf-core-phaseimpute_hexagonal_logo.png" alt="nf-core/phaseimpute logo" url="https://nf-co.re/phaseimpute/" width="200"/> <img src="https://github.com/LouisLeNezet/Pedixplorer/blob/devel/inst/figures/icon_Pedixplorer.png" alt="Pedixplorer logo" url="https://louislenezet.github.io/Pedixplorer/" width="200"/> <img src="https://github.com/LouisLeNezet/Files2DB/blob/dev/assets/logo_files2db.png" alt="files2db logo" url="https://github.com/LouisLeNezet/Files2DB" width="200"/>
 
 - [**`nf-core/phaseimpute`**](https://nf-co.re/phaseimpute/) pipelines to impute genomic data 
 - [**`Pedixplorer`**](https://www.bioconductor.org/packages/release/bioc/html/Pedixplorer.html) bioconductor project with:
