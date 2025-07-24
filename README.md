@@ -10,15 +10,17 @@ I am an Nextflow ambassador and active member of the nf-core community, where I 
 
 On my GitHub, you'll find a variety of projects related to my research but also some personal projects:
 
-<a href="https://nf-co.re/phaseimpute/">
-  <img src="https://github.com/nf-core/phaseimpute/blob/master/docs/images/logo/nf-core-phaseimpute_hexagonal_logo.png" alt="nf-core/phaseimpute logo" width="200"/>
-</a>
-<a href="https://louislenezet.github.io/Pedixplorer/">
-  <img src="https://github.com/LouisLeNezet/Pedixplorer/blob/devel/inst/figures/icon_Pedixplorer.png" alt="Pedixplorer logo" width="200"/>
-</a>
-<a href="https://github.com/LouisLeNezet/Files2DB">
-  <img src="https://github.com/LouisLeNezet/Files2DB/blob/dev/assets/logo_files2db.png" alt="files2db logo" width="200"/>
-</a>
+<div align="center">
+  <a href="https://nf-co.re/phaseimpute/">
+    <img src="https://github.com/nf-core/phaseimpute/blob/master/docs/images/logo/nf-core-phaseimpute_hexagonal_logo.png" alt="nf-core/phaseimpute logo" width="200"/>
+  </a>
+  <a href="https://louislenezet.github.io/Pedixplorer/">
+    <img src="https://github.com/LouisLeNezet/Pedixplorer/blob/devel/inst/figures/icon_Pedixplorer.png" alt="Pedixplorer logo" width="200"/>
+  </a>
+  <a href="https://github.com/LouisLeNezet/Files2DB">
+    <img src="https://github.com/LouisLeNezet/Files2DB/blob/dev/assets/logo_files2db.png" alt="files2db logo" width="200"/>
+  </a>
+</div>
 
 - [nf-core/phaseimpute](https://nf-co.re/phaseimpute/) pipelines to impute genomic data 
 - [Pedixplorer](https://www.bioconductor.org/packages/release/bioc/html/Pedixplorer.html) bioconductor project with:
