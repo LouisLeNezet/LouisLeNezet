@@ -10,16 +10,24 @@ I am an Nextflow ambassador and active member of the nf-core community, where I 
 
 On my GitHub, you'll find a variety of projects related to my research but also some personal projects:
 
-<img src="https://github.com/nf-core/phaseimpute/blob/master/docs/images/logo/nf-core-phaseimpute_hexagonal_logo.png" alt="nf-core/phaseimpute logo" url="https://nf-co.re/phaseimpute/" width="200"/> <img src="https://github.com/LouisLeNezet/Pedixplorer/blob/devel/inst/figures/icon_Pedixplorer.png" alt="Pedixplorer logo" url="https://louislenezet.github.io/Pedixplorer/" width="200"/> <img src="https://github.com/LouisLeNezet/Files2DB/blob/dev/assets/logo_files2db.png" alt="files2db logo" url="https://github.com/LouisLeNezet/Files2DB" width="200"/>
+<a href="https://nf-co.re/phaseimpute/">
+  <img src="https://github.com/nf-core/phaseimpute/blob/master/docs/images/logo/nf-core-phaseimpute_hexagonal_logo.png" alt="nf-core/phaseimpute logo" width="200"/>
+</a>
+<a href="https://louislenezet.github.io/Pedixplorer/">
+  <img src="https://github.com/LouisLeNezet/Pedixplorer/blob/devel/inst/figures/icon_Pedixplorer.png" alt="Pedixplorer logo" width="200"/>
+</a>
+<a href="https://github.com/LouisLeNezet/Files2DB">
+  <img src="https://github.com/LouisLeNezet/Files2DB/blob/dev/assets/logo_files2db.png" alt="files2db logo" width="200"/>
+</a>
 
-- [**`nf-core/phaseimpute`**](https://nf-co.re/phaseimpute/) pipelines to impute genomic data 
-- [**`Pedixplorer`**](https://www.bioconductor.org/packages/release/bioc/html/Pedixplorer.html) bioconductor project with:
+- [`nf-core/phaseimpute`](https://nf-co.re/phaseimpute/) pipelines to impute genomic data 
+- [`Pedixplorer`](https://www.bioconductor.org/packages/release/bioc/html/Pedixplorer.html) bioconductor project with:
   - Its [dedicated documentation website](https://louislenezet.github.io/Pedixplorer/)
   - Its [dedicated Shiny app](https://pedixplorer.univ-rennes.fr/) available on the Rennes' University VM
 - [louislenezet.github.io](https://louislenezet.github.io/) My personal jekyll website to host and showcase my work
-  - My articles, with their graph scripts, but also my posters and CV will be soon available there.
+  - My articles, posters and CV will be soon available there.
 - [`BioShinyModules`](https://github.com/stjude-biohackathon/BioShinyModules) that I hope will in the near future be available in Bioconductor
-- `Files2DB` an ongoing project to automatically aggregate, normalise data
+- [`Files2DB`](https://github.com/LouisLeNezet/Files2DB) an ongoing project to automatically aggregate, normalise data
 - [autoCatFeeder](https://github.com/LouisLeNezet/autoCatFeeder) a little project for a cheap automatic cat's croquette feeder.
 With wood work, 3D printing and a bit of arduino
 
@@ -29,7 +37,7 @@ I welcome feedback and contributions on any of my porjects. By working together 
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/louis-le-n%C3%A9zet-618aba166/)
 
-## Community
+## :handshake: Communities I'm part of
 
 ![nf-core](https://img.shields.io/badge/nfcore-22ae63?style=for-the-badge&logo=nf-core&logoColor=white) ![BioConductor](https://img.shields.io/badge/BioConductor-0087af?style=for-the-badge&logo=bio-conductor&logoColor=white)
 
