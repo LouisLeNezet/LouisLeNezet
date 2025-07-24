@@ -20,14 +20,14 @@ On my GitHub, you'll find a variety of projects related to my research but also 
   <img src="https://github.com/LouisLeNezet/Files2DB/blob/dev/assets/logo_files2db.png" alt="files2db logo" width="200"/>
 </a>
 
-- [`nf-core/phaseimpute`](https://nf-co.re/phaseimpute/) pipelines to impute genomic data 
-- [`Pedixplorer`](https://www.bioconductor.org/packages/release/bioc/html/Pedixplorer.html) bioconductor project with:
+- [nf-core/phaseimpute](https://nf-co.re/phaseimpute/) pipelines to impute genomic data 
+- [Pedixplorer](https://www.bioconductor.org/packages/release/bioc/html/Pedixplorer.html) bioconductor project with:
   - Its [dedicated documentation website](https://louislenezet.github.io/Pedixplorer/)
   - Its [dedicated Shiny app](https://pedixplorer.univ-rennes.fr/) available on the Rennes' University VM
 - [louislenezet.github.io](https://louislenezet.github.io/) My personal jekyll website to host and showcase my work
   - My articles, posters and CV will be soon available there.
-- [`BioShinyModules`](https://github.com/stjude-biohackathon/BioShinyModules) that I hope will in the near future be available in Bioconductor
-- [`Files2DB`](https://github.com/LouisLeNezet/Files2DB) an ongoing project to automatically aggregate, normalise data
+- [BioShinyModules](https://github.com/stjude-biohackathon/BioShinyModules) that I hope will in the near future be available in Bioconductor
+- [Files2DB](https://github.com/LouisLeNezet/Files2DB) an ongoing project to automatically aggregate, normalise data
 - [autoCatFeeder](https://github.com/LouisLeNezet/autoCatFeeder) a little project for a cheap automatic cat's croquette feeder.
 With wood work, 3D printing and a bit of arduino
 
