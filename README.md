@@ -41,7 +41,7 @@ I welcome feedback and contributions on any of my porjects. By working together 
 
 ## :handshake: Communities I'm part of
 
-![nf-core](https://img.shields.io/badge/nfcore-22ae63?style=for-the-badge&logo=nf-core&logoColor=white) ![Bioconductor](https://img.shields.io/badge/Bioconductor-0087af?style=for-the-badge&logo=Bioconductor&logoColor=white)
+![nf-core](https://img.shields.io/badge/nfcore-22ae63?style=for-the-badge&logo=nf-core&logoColor=white) ![Bioconductor](https://img.shields.io/badge/Bioconductor-0087af?style=for-the-badge&logo=bioconductor&logoColor=white)
 
 ## :hammer_and_wrench: Languages and Tools :
 
