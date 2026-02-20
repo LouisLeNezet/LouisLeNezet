@@ -46,7 +46,3 @@ I welcome feedback and contributions on any of my porjects. By working together 
 ## :hammer_and_wrench: Languages and Tools :
 
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![Shiny](https://img.shields.io/badge/Shiny-blue?style=for-the-badge&logo=r&logoColor=white) ![Nextflow](https://img.shields.io/badge/Newtflow-0dc09d?style=for-the-badge&logo=nextflow&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white) ![Python](https://img.shields.io/badge/Python-c9a02c?style=for-the-badge&logo=python&logoColor=white)  ![Git](https://img.shields.io/badge/Git-f05133?style=for-the-badge&logo=git&logoColor=white) 
-
-## :fire: Stats
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LouisLeNezet)](https://github.com/anuraghazra/github-readme-stats)
