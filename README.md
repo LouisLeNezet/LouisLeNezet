@@ -49,4 +49,4 @@ I welcome feedback and contributions on any of my porjects. By working together 
 
 ## :fire: Stats
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=LouisLeNezet&show_icons=true&theme=dark&count_private=true&show_icons=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LouisLeNezet)](https://github.com/LouisLeNezet/github-readme-stats)
