@@ -12,7 +12,7 @@ On my GitHub, you'll find a variety of projects related to my research but also 
 
 <div align="center">
   <a href="https://nf-co.re/phaseimpute/">
-    <img src="https://github.com/nf-core/phaseimpute/blob/master/docs/images/logo/nf-core-phaseimpute_hexagonal_logo.png" alt="nf-core/phaseimpute logo" width="200"/>
+    <img src="https://github.com/nf-core/phaseimpute/blob/main/docs/images/logo/nf-core-phaseimpute_hexagonal_logo.png" alt="nf-core/phaseimpute logo" width="200"/>
   </a>
   <a href="https://louislenezet.github.io/Pedixplorer/">
     <img src="https://github.com/LouisLeNezet/Pedixplorer/blob/devel/inst/figures/icon_Pedixplorer.png" alt="Pedixplorer logo" width="200"/>
