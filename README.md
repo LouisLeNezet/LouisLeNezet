@@ -18,7 +18,7 @@ On my GitHub, you'll find a variety of projects related to my research but also 
     <img src="https://github.com/LouisLeNezet/Pedixplorer/blob/devel/inst/figures/icon_Pedixplorer.png" alt="Pedixplorer logo" width="200"/>
   </a>
   <a href="https://github.com/LouisLeNezet/Files2DB">
-    <img src="https://github.com/LouisLeNezet/Files2DB/blob/dev/assets/logo_files2db.png" alt="files2db logo" width="200"/>
+    <img src="https://github.com/LouisLeNezet/files2db/blob/main/assets/logo_files2db.png" alt="files2db logo" width="200"/>
   </a>
 </div>
 
